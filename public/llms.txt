@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מתמחים בהפקת סרט חיים לאירועי משפחה ואירועים מיוחדים. אנחנו מספרים את סיפור החיים שלכם בסרט תיעודי מרגש ומקצועי שישמר את הזיכרונות לדורות הבאים.
+
+### אודות
+https://example.com/about
+למעלה מעשור של ניסיון בהפקת סרטי חיים תיעודיים. אנחנו מאמינים שכל סיפור חיים ראוי להיות מסופר ומשומר בצורה מקצועית ומרגשת. הכירו את הצוות והגישה שלנו.
+
+### תיק עבודות
+https://example.com/portfolio
+גלריית סרטי חיים מרגשים: מיום הולדת 80 ועד אירועים משפחתיים מיוחדים. כל סרט הוא יצירה ייחודית ששומרת זיכרונות יקרים. התרשמו מעבודות קודמות וקבלו השראה.
+
+### צור קשר
+https://example.com/contact
+מוכנים להנציח את סיפור החיים שלכם? צרו קשר לייעוץ ללא התחייבות והצעת מחיר מותאמת אישית. נשמח לשמוע את הסיפור שלכם וליצור סרט חיים מרגש במיוחד עבורכם.
+
+### Products
+https://example.com/products
+המוצרים שלנו - עין טובה הפרות וצילום סרטים
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עין טובה הפרות וצילום סרטים
+
+### Category
+https://example.com/category/:slug
+מוצרים - עין טובה הפרות וצילום סרטים
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
